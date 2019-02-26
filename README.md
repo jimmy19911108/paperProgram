@@ -1,2 +1,2 @@
 # paperProgram
-paper program for experiment
+program of paper for experiment
